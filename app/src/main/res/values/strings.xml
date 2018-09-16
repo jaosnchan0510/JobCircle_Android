@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JobCircle</string>
+
+    <string name="individualTab_text">Individual</string>
+    <string name="ptTab_text">Part Time</string>
+    <string name="myPostTab_text">My Post</string>
 </resources>
